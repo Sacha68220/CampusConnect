@@ -2,7 +2,6 @@
 
 > Plateforme permettant aux étudiants de découvrir les événements universitaires et de s'y inscrire.
 
-![Statut](https://img.shields.io/badge/statut-en%20conception-orange)
 
 ## Sommaire
 
@@ -27,16 +26,16 @@ Les événements du campus (conférences, ateliers, forums, activités associati
 
 ## État du projet
 
-🟠 **Phase de conception.**
+**Phase de conception.**
 
 Le projet est développé dans le cadre d'un module de gestion de projet Agile (Scrum). À ce jour :
 
 | Élément | État |
 |---|---|
-| User Stories et Product Backlog | ✅ Rédigés (Jira) |
-| Spécifications fonctionnelles | 🟡 En cours (Confluence) |
-| Diagrammes UML | ✅ Première version (`uml/`) |
-| Code de l'application | ⬜ Pas encore commencé |
+| User Stories et Product Backlog | Rédigés (Jira) |
+| Spécifications fonctionnelles | En cours (Confluence) |
+| Diagrammes UML | Première version (`uml/`) |
+| Code de l'application | Pas encore commencé |
 
 Il n'existe donc **pas encore d'application à installer ni à exécuter**. Cette section sera mise à jour lorsque le développement démarrera.
 
@@ -64,9 +63,9 @@ Il n'existe donc **pas encore d'application à installer ni à exécuter**. Cett
 
 ## Documentation
 
-- 📘 **Espace Confluence CampusConnect :** [lien à insérer]
-- 📄 **Spécification « S'inscrire à un événement » (SPEC-01) :** [lien Confluence à insérer]
-- 🗂️ **Product Backlog Jira :** [lien à insérer]
+-  **Espace Confluence CampusConnect :** [lien à insérer]
+-  **Spécification « S'inscrire à un événement » (SPEC-01) :** [lien Confluence à insérer]
+-  **Product Backlog Jira :** [lien à insérer]
 
 **Diagrammes UML (sources modifiables) :**
 
